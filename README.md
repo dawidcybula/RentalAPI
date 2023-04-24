@@ -1,5 +1,5 @@
 # RentalAPI
-RentalAPI using RestAPI,Swaggrer,EntityFramework
+RentalAPI using RestAPI,Swaggrer,EntityFramework used for product rentals.
 Created in 2022
 
 Users are able to
